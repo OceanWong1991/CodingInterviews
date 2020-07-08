@@ -1,26 +1,3 @@
->参考
->
->[字符串全排列问题](http://blog.csdn.net/zhaojinjia/article/details/9320475)
->
->[字符串的全排列和组合算法](http://blog.csdn.net/hackbuteer1/article/details/7462447)
-
-#链接
--------
->牛客OJ：[字符串的排列](http://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1369
->
->GitHub代码： [028-字符串的排列](https://github.com/gatieme/CodingInterviews/tree/master/028-字符串的排列)
->
->CSDN题解：[剑指Offer--028-字符串的排列](http://blog.csdn.net/gatieme/article/details/51251158)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[字符串的排列](http://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1369-字符串的排列](http://ac.jobdu.com/problem.php?pid=1369) | [剑指Offer--028-字符串的排列](http://blog.csdn.net/gatieme/article/details/51251158) | [028-字符串的排列](https://github.com/gatieme/CodingInterviews/tree/master/028-字符串的排列) |
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 

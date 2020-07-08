@@ -1,19 +1,3 @@
-#链接
-------- 
-
->牛客OJ：[反转链表](http://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1518
-> 
->GitHub代码： [016-反转链表](https://github.com/gatieme/CodingInterviews/tree/master/016-反转链表)
->
->CSDN题解：[剑指Offer--016-反转链表](http://blog.csdn.net/gatieme/article/details/511351197)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
-|[反转链表](http://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1518-反转链表](http://ac.jobdu.com/problem.php?pid=1518) | [剑指Offer--016-反转链表](http://blog.csdn.net/gatieme/article/details/51135119) | [016-反转链表](https://github.com/gatieme/CodingInterviews/tree/master/016-反转链表)|
-
 
 
 #题意

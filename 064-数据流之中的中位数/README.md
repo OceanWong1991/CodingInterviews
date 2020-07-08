@@ -1,17 +1,4 @@
-#1    链接
--------
 
->牛客OJ：[数据流之中的中位数](http://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&rp=4)
-> 
->九度OJ：未收录
->
->GitHub代码： [064-数据流之中的中位数](https://github.com/gatieme/CodingInterviews/tree/master/064-数据流之中的中位数)
->
->CSDN题解：[剑指Offer--064-数据流之中的中位数](http://blog.csdn.net/gatieme/article/details/51908274)
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[064-数据流之中的中位数](http://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&rp=4) | 未收录 | [剑指Offer--064-数据流之中的中位数](http://blog.csdn.net/gatieme/article/details/51908274) | [064-数据流之中的中位数](https://github.com/gatieme/CodingInterviews/tree/master/064-数据流之中的中位数) |
 
 #2    题意
 -------

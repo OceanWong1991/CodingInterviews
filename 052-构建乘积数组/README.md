@@ -1,17 +1,3 @@
-#链接
-------- 
->牛客OJ：[构建乘积数组](http://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tqId=11204&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [052-构建乘积数组](https://github.com/gatieme/CodingInterviews/tree/master/052-构建乘积数组)
->
->CSDN题解：[剑指Offer--052-构建乘积数组](http://blog.csdn.net/gatieme/article/details/51541100)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[052-构建乘积数组](http://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&tqId=11204&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 未收录 | [剑指Offer--052-构建乘积数组](http://blog.csdn.net/gatieme/article/details/51541100) | [052-构建乘积数组](https://github.com/gatieme/CodingInterviews/tree/master/052-构建乘积数组) |
 
 
 #题意

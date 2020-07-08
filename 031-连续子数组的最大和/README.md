@@ -1,22 +1,3 @@
-#链接
--------
->牛客OJ：[连续子数组的最大和](http://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1372
->
->GitHub代码： [031-连续子数组的最大和](https://github.com/gatieme/CodingInterviews/tree/master/031-连续子数组的最大和)
->
->CSDN题解：[剑指Offer--031-连续子数组的最大和](http://blog.csdn.net/gatieme/article/details/51287801)
-
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[031-连续子数组的最大和](http://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1372-连续子数组的最大和](http://ac.jobdu.com/problem.php?pid=1372) | [剑指Offer--031-连续子数组的最大和](http://blog.csdn.net/gatieme/article/details/51287801) | [031-连续子数组的最大和](https://github.com/gatieme/CodingInterviews/tree/master/031-连续子数组的最大和) |
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
-
 
 
 

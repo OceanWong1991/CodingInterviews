@@ -1,17 +1,3 @@
-#链接
-------- 
->牛客OJ：[扑克牌顺子](http://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tqId=11198&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1355
-> 
->GitHub代码： [044扑克牌顺子](https://github.com/gatieme/CodingInterviews/tree/master/044扑克牌顺子)
->
->CSDN题解：[剑指Offer--044扑克牌顺子](http://blog.csdn.net/gatieme/article/details/51427573)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[044扑克牌顺子](http://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tqId=11198&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1355-扑克牌顺子](http://ac.jobdu.com/problem.php?pid=1355) | [剑指Offer--044扑克牌顺子](http://blog.csdn.net/gatieme/article/details/51427573) | [044扑克牌顺子](https://github.com/gatieme/CodingInterviews/tree/master/044扑克牌顺子) |
 
 
 

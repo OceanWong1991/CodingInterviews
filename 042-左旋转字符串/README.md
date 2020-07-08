@@ -1,21 +1,3 @@
-#链接
-------- 
->牛客OJ：[左旋转字符串](http://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1362
-> 
->GitHub代码： [042-左旋转字符串](https://github.com/gatieme/CodingInterviews/tree/master/042-左旋转字符串)
->
->CSDN题解：[剑指Offer--042-左旋转字符串](http://blog.csdn.net/gatieme/article/details/51357308)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------------- |:-------------:| -----:| -----:|
-|[042-左旋转字符串](http://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1362-左旋转字符串](http://ac.jobdu.com/problem.php?pid=1362) | [剑指Offer--042-左旋转字符串](http://blog.csdn.net/gatieme/article/details/51357308) | [042-左旋转字符串](https://github.com/gatieme/CodingInterviews/tree/master/042-左旋转字符串) |
-
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 

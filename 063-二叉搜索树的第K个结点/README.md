@@ -1,19 +1,4 @@
 
-#1    链接
--------
-
->牛客OJ：[二叉搜索树的第K个结点](http://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&rp=4)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [063-二叉搜索树的第K个结点](https://github.com/gatieme/CodingInterviews/tree/master/063-二叉搜索树的第K个结点)
->
->CSDN题解：[剑指Offer--063-二叉搜索树的第K个结点](http://blog.csdn.net/gatieme/article/details/51902530)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[063-二叉搜索树的第K个结点](http://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&rp=4) | 未收录 | [剑指Offer--063-二叉搜索树的第K个结点](http://blog.csdn.net/gatieme/article/details/51902530) | [063-二叉搜索树的第K个结点](https://github.com/gatieme/CodingInterviews/tree/master/063-二叉搜索树的第K个结点) |
 
 #2    题意
 -------

@@ -1,20 +1,3 @@
-#链接
-------- 
-
->牛客OJ：[替换空格](http://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1510
->
->GitHub代码： [004-替换空格](https://github.com/gatieme/CodingInterviews/tree/master/004-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)
->
->CSDN题解：[剑指Offer--004-替换空格](http://blog.csdn.net/gatieme/article/details/51100630)
-
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------------- |:-------------:| -----:|
-| [替换空格](http://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [1510-替换空格](http://ac.jobdu.com/problem.php?pid=1510)   | [剑指Offer--004-替换空格](http://blog.csdn.net/gatieme/article/details/51100630)   | [004-替换空格](https://github.com/gatieme/CodingInterviews/tree/master/004-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC) |
-
 
 #题意
 -------

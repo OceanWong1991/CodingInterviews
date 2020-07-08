@@ -1,24 +1,3 @@
-#链接
--------
-
-
->牛客OJ：[数组中只出现一次的数字](http://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1351
->
->GitHub代码： [040-数组中只出现一次的数字](https://github.com/gatieme/CodingInterviews/tree/master/040-数组中只出现一次的数字)
->
->CSDN题解：[剑指Offer--040-数组中只出现一次的数字](
-http://blog.csdn.net/gatieme/article/details/51352156)
-
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[040-数组中只出现一次的数字](http://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1351-数组中只出现一次的数字](http://ac.jobdu.com/problem.php?pid=1351) | [剑指Offer--040-数组中只出现一次的数字](http://blog.csdn.net/gatieme/article/details/51352156) | [040-数组中只出现一次的数字](https://github.com/gatieme/CodingInterviews/tree/master/040-数组中只出现一次的数字) |
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 #题意

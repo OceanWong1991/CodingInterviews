@@ -1,24 +1,3 @@
-#链接
--------
-
-
->牛客OJ：[和为S的连续正数序列](http://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1354
->
->GitHub代码： [041-和为S的连续正数序列](https://github.com/gatieme/CodingInterviews/tree/master/041-和为S的连续正数序列)
->
->CSDN题解：[剑指Offer--041-和为S的连续正数序列](http://blog.csdn.net/gatieme/article/details/51357308)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[041-和为S的连续正数序列](http://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1354-和为S的连续正数序列](http://ac.jobdu.com/problem.php?pid=1354) | [剑指Offer--041-和为S的连续正数序列](http://blog.csdn.net/gatieme/article/details/51357308) | [041-和为S的连续正数序列](https://github.com/gatieme/CodingInterviews/tree/master/041-和为S的连续正数序列) |
-
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
-
 
 
 #题意

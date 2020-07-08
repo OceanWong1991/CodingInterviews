@@ -1,24 +1,3 @@
-#链接
-------- 
->牛客OJ：[链表中环的入口结点](http://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [056-链表中环的入口结点](https://github.com/gatieme/CodingInterviews/tree/master/056-链表中环的入口结点)
->
->CSDN题解：[剑指Offer--056-链表中环的入口结点](http://blog.csdn.net/gatieme/article/details/51602910)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[056-链表中环的入口结点](http://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 未收录 | [剑指Offer--056-链表中环的入口结点](http://blog.csdn.net/gatieme/article/details/51602910) | [056-链表中环的入口结点](https://github.com/gatieme/CodingInterviews/tree/master/056-链表中环的入口结点) |
-
-
-
->参考
->
->[判断链表中是否有环 —– 有关单链表中环的问题](http://blog.csdn.net/doufei_ccst/article/details/10578315)
-
 
 
 #题目描述

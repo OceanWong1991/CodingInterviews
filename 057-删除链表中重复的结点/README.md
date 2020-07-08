@@ -1,17 +1,3 @@
-#链接
-------- 
->牛客OJ：[删除链表中重复的结点](http://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tqId=11209&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [057-删除链表中重复的结点](https://github.com/gatieme/CodingInterviews/tree/master/057-删除链表中重复的结点)
->
->CSDN题解：[剑指Offer--057-删除链表中重复的结点](http://blog.csdn.net/gatieme/article/details/51604199)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:|
-|[057-删除链表中重复的结点](http://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tqId=11209&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 未收录 | [剑指Offer--057-删除链表中重复的结点](http://blog.csdn.net/gatieme/article/details/51604199) | [057-删除链表中重复的结点](https://github.com/gatieme/CodingInterviews/tree/master/057-删除链表中重复的结点) |
 
 #题意
 -------

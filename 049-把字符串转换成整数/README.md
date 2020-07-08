@@ -1,21 +1,3 @@
-#链接
-------- 
->牛客OJ：[把字符串转换成整数](http://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tqId=11202&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1508
-> 
->GitHub代码： [049-把字符串转换成整数](https://github.com/gatieme/CodingInterviews/tree/master/049-把字符串转换成整数)
->
->CSDN题解：[剑指Offer--049-把字符串转换成整数](http://blog.csdn.net/gatieme/article/details/51502651)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[049-把字符串转换成整数](http://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tqId=11202&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1508-把字符串转换成整数](http://ac.jobdu.com/problem.php?pid=1508) | [剑指Offer--049-把字符串转换成整数](http://blog.csdn.net/gatieme/article/details/51502651) | [049-把字符串转换成整数](https://github.com/gatieme/CodingInterviews/tree/master/049-把字符串转换成整数) |
-
-
-
->相同题目 [LeetCode题解--8. String to Integer (atoi)](http://blog.csdn.net/gatieme/article/details/51046065)
 
 #题意
 -------

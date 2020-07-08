@@ -1,17 +1,4 @@
-#链接
-------- 
->牛客OJ：[把二叉树打印成多行](http://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [060-把二叉树打印成多行](https://github.com/gatieme/CodingInterviews/tree/master/060-把二叉树打印成多行)
->
->CSDN题解：[剑指Offer--060-把二叉树打印成多行](http://blog.csdn.net/gatieme/article/details/51622025)
 
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------------- |:-------------:| -----:| -----:|
-|[060-把二叉树打印成多行](http://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 未收录 | [剑指Offer--060-把二叉树打印成多行](http://blog.csdn.net/gatieme/article/details/51622025) | [060-把二叉树打印成多行](https://github.com/gatieme/CodingInterviews/tree/master/060-把二叉树打印成多行) |
 
 #题意
 -------

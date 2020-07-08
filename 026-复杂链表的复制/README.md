@@ -1,30 +1,3 @@
-#链接
-------- 
-<<<<<<< HEAD
-
-[牛客剑指Offer题目列表](http://www.nowcoder.com/ta/coding-interviews?page=)
-
-[九度OJ剑指Offer题目列表](http://ac.jobdu.com/hhtproblems.php)
-
-
-| 题目 | 题解 | 代码 |
-| ------------- |:-------------:| -----:|
-| [二维数组中的查找](http://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |
-=======
->牛客OJ：[复杂链表的复制](http://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1524
-> 
->GitHub代码： [026-复杂链表的复制](https://github.com/gatieme/CodingInterviews/tree/master/026-复杂链表的复制)
->
->CSDN题解：[剑指Offer--026-复杂链表的复制](http://blog.csdn.net/gatieme/article/details/51227939)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
-|[复杂链表的复制](http://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1524-复杂链表的复制](http://ac.jobdu.com/problem.php?pid=1524) | [剑指Offer--026-复杂链表的复制](http://blog.csdn.net/gatieme/article/details/51227939) | [026-复杂链表的复制](https://github.com/gatieme/CodingInterviews/tree/master/026-复杂链表的复制) |
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 #题意

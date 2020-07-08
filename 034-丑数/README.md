@@ -1,23 +1,3 @@
-#链接
--------
-
->牛客OJ：[丑数](http://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1214
->
->GitHub代码： [034-丑数](https://github.com/gatieme/CodingInterviews/tree/master/034-丑数)
->
->CSDN题解：[剑指Offer--034-丑数](http://blog.csdn.net/gatieme/article/details/51308037)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[034-丑数](http://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1214-丑数](http://ac.jobdu.com/problem.php?pid=1214) | [剑指Offer--034-丑数](http://blog.csdn.net/gatieme/article/details/51308037) | [034-丑数](https://github.com/gatieme/CodingInterviews/tree/master/034-丑数) |
-
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
-
 
 
 

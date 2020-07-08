@@ -1,17 +1,3 @@
-#链接
-------- 
->牛客OJ：[不用加减乘除做加法](http://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tqId=11201&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1507
-> 
->GitHub代码： [047-不用加减乘除做加法](https://github.com/gatieme/CodingInterviews/tree/master/047-不用加减乘除做加法)
->
->CSDN题解：[剑指Offer--047-不用加减乘除做加法](http://blog.csdn.net/gatieme/article/details/51493414)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[047-不用加减乘除做加法](http://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tqId=11201&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1507-不用加减乘除做加法](http://ac.jobdu.com/problem.php?pid=1507) | [剑指Offer--047-不用加减乘除做加法](http://blog.csdn.net/gatieme/article/details/51493414) | [047-不用加减乘除做加法](https://github.com/gatieme/CodingInterviews/tree/master/047-不用加减乘除做加法) |
 
 
 

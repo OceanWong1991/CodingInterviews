@@ -1,18 +1,3 @@
-#1    ﻿链接
-------- 
-
->牛客OJ：[序列化二叉树](http://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&rp=4)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [062-序列化二叉树](https://github.com/gatieme/CodingInterviews/tree/master/062-序列化二叉树)
->
->CSDN题解：[剑指Offer--062-序列化二叉树](http://blog.csdn.net/gatieme/article/details/51901268)
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
- |:-----:| -----:| -----:| -----:|
-|[062-序列化二叉树](http://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&rp=4) | 未收录 | [剑指Offer--062-序列化二叉树](http://blog.csdn.net/gatieme/article/details/51901268) | [062-序列化二叉树](https://github.com/gatieme/CodingInterviews/tree/master/062-序列化二叉树) |
-
 
 
 #2    ﻿题意

@@ -1,18 +1,3 @@
-#链接
-------- 
->牛客OJ：[孩子们的游戏(圆圈中最后剩下的数)](http://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1356
-> 
->GitHub代码： [045-孩子们的游戏(圆圈中最后剩下的数)](https://github.com/gatieme/CodingInterviews/tree/master/045-孩子们的游戏(圆圈中最后剩下的数))
->
->CSDN题解：[剑指Offer--045-孩子们的游戏(圆圈中最后剩下的数)](http://blog.csdn.net/gatieme/article/details/51435055)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[045-孩子们的游戏(圆圈中最后剩下的数)](http://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1356-孩子们的游戏(圆圈中最后剩下的数)](http://ac.jobdu.com/problem.php?pid=1356) | [剑指Offer--045-孩子们的游戏(圆圈中最后剩下的数)](http://blog.csdn.net/gatieme/article/details/51435055) | [045-孩子们的游戏(圆圈中最后剩下的数)](https://github.com/gatieme/CodingInterviews/tree/master/045-孩子们的游戏(圆圈中最后剩下的数)) |
-
 
 
 #题意

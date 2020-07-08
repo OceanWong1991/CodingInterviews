@@ -1,20 +1,3 @@
-#链接
--------
->牛客OJ：[从1到n整数中1出现的次数](http://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1373
->
->GitHub代码： [032-从1到n整数中1出现的次数](https://github.com/gatieme/CodingInterviews/tree/master/032-从1到n整数中1出现的次数)
->
->CSDN题解：[剑指Offer--032-从1到n整数中1出现的次数](http://blog.csdn.net/gatieme/article/details/51292339)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------ |:------:| --------:|:----------:|
-|[032-从1到n整数中1出现的次数](http://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1373-从1到n整数中1出现的次数](http://ac.jobdu.com/problem.php?pid=1373) | [剑指Offer--032-从1到n整数中1出现的次数](http://blog.csdn.net/gatieme/article/details/51292339) | [032-从1到n整数中1出现的次数](https://github.com/gatieme/CodingInterviews/tree/master/032-从1到n整数中1出现的次数) |
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 

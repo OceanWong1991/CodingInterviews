@@ -1,24 +1,3 @@
-#链接
-------- 
-
->牛客OJ：[链表中倒数第k个结点](http://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1517
-> 
->GitHub代码： [015-链表中倒数第k个结点](https://github.com/gatieme/CodingInterviews/tree/master/015-链表中倒数第k个结点)
->
->CSDN题解：[剑指Offer--015-链表中倒数第k个结点](http://blog.csdn.net/gatieme/article/details/51133817)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| 
-|[链表中倒数第k个结点](http://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1517-链表中倒数第k个结点](http://ac.jobdu.com/problem.php?pid=1517) | [剑指Offer--015-链表中倒数第k个结点](http://blog.csdn.net/gatieme/article/details/51133817) | [015-链表中倒数第k个结点](https://github.com/gatieme/CodingInterviews/tree/master/015-链表中倒数第k个结点)|
-
-
-
-
-<br>
-**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 #题意
 -------

@@ -1,22 +1,3 @@
-#链接
--------
->牛客OJ：[两个链表的第一个公共结点](http://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
->
->九度OJ：http://ac.jobdu.com/problem.php?pid=1505
->
->GitHub代码： [037-两个链表的第一个公共结点](https://github.com/gatieme/CodingInterviews/tree/master/037-两个链表的第一个公共结点)
->
->CSDN题解：[剑指Offer--037-两个链表的第一个公共结点](http://blog.csdn.net/gatieme/article/details/51330871)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 |
-| ------------- |:-------------:| -----:|
-|[037-两个链表的第一个公共结点](http://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1505-两个链表的第一个公共结点](http://ac.jobdu.com/problem.php?pid=1505) | [剑指Offer--037-两个链表的第一个公共结点](http://blog.csdn.net/gatieme/article/details/51330871) | [037-两个链表的第一个公共结点](https://github.com/gatieme/CodingInterviews/tree/master/037-两个链表的第一个公共结点) |
-
-
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 

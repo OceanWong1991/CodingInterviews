@@ -1,23 +1,3 @@
-#链接
-------- 
-
-
->牛客OJ：[二叉树中和为某一值的路径](http://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：http://ac.jobdu.com/problem.php?pid=1368
-> 
->GitHub代码： [025-二叉树中和为某一值的路径](https://github.com/gatieme/CodingInterviews/tree/master/025-二叉树中和为某一值的路径)
->
->CSDN题解：[剑指Offer--025-二叉树中和为某一值的路径](http://blog.csdn.net/gatieme/article/details/51214182)
-
-
-| 牛客OJ | 九度OJ  | CSDN题解 | GitHub代码 | 
-| ------ |:-------:| --------:|:----------:|
-|[二叉树中和为某一值的路径](http://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [1368-二叉树中和为某一值的路径](http://ac.jobdu.com/problem.php?pid=1368) | [剑指Offer--025-二叉树中和为某一值的路径](http://blog.csdn.net/gatieme/article/details/51214182) | [025-二叉树中和为某一值的路径](https://github.com/gatieme/CodingInterviews/tree/master/025-二叉树中和为某一值的路径) |
-
-
-
-<br>**您也可以选择[回到目录-剑指Offer--题集目录索引](http://blog.csdn.net/gatieme/article/details/51916802)**
 
 
 

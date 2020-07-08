@@ -1,18 +1,3 @@
-#链接
-------- 
->牛客OJ：[数组中重复的数字](http://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
-> 
->九度OJ：未收录
-> 
->GitHub代码： [051-数组中重复的数字](https://github.com/gatieme/CodingInterviews/tree/master/051-数组中重复的数字)
->
->CSDN题解：[剑指Offer--051-数组中重复的数字](http://blog.csdn.net/gatieme/article/details/51540159)
-
-
-| 牛客OJ | 九度OJ | CSDN题解 | GitHub代码 | 
-| ------------- |:-------------:| -----:| -----:|
-|[051-数组中重复的数字](http://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&tqId=11203&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 未收录 | [剑指Offer--051-数组中重复的数字](http://blog.csdn.net/gatieme/article/details/51540159) | [051-数组中重复的数字](https://github.com/gatieme/CodingInterviews/tree/master/051-数组中重复的数字) |
-
 
 #题意
 -------
