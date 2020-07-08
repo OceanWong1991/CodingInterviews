@@ -10,7 +10,7 @@
 * [004](004.md)
 * [033](033-ba-shu-zu-pai-cheng-zui-xiao-de-shu.md)
 * [README](template.md)
-* [README](042-fan-zhuan-dan-ci-shun-xu-lie.md)
+* [042](042-fan-zhuan-dan-ci-shun-xu-lie.md)
 * [README](063-er-cha-sou-suo-shu-de-dikge-jie-dian.md)
 * [README](042-zuo-xuan-zhuan-zi-fu-chuan.md)
 * [README](054-biao-shi-shu-zhi-de-zi-fu-chuan.md)
